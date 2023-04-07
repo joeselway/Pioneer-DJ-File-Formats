@@ -19,7 +19,6 @@ A handy table of format support taken from the various user manuals
 | XDJ-RX3     | 2021 | All | up to 48kHz/16-bit | up to 48kHz/24-bit| up to 48kHz/24-bit| N/A               |                                           |
 | XDJ-RR      | 2018 | All | up to 48kHz/16-bit | up to 48kHz/24-bit| N/A               | N/A               |                                           |
 | XDJ-RX2     | 2017 | All | up to 48kHz/16-bit | up to 48kHz/24-bit| N/A               | N/A               |                                           |
-| XDJ-RX2  | 2017 | All | up to 48kHz/16-bit  | up to 48kHz/24-bit | N/A       | N/A            |       |
 | XDJ-RX   | 2015 | All | up to 48kHz/16-bit  | up to 48kHz/24-bit | N/A       | N/A            |       |
 | XDJ-R1   | 2013 | All | up to 48kHz/16-bit  | up to 48kHz/24-bit | N/A       | N/A            |       |
 | XDJ-AERO | 2012 | All | up to 48kHz/16-bit  | up to 48kHz/24-bit | N/A       | N/A            |       |
