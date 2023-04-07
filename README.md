@@ -30,6 +30,8 @@ Source: https://www.reddit.com/r/DJs/comments/kb36z9/a_tool_to_fix_compatibility
 
 tl;dr…
 
-“I always had issues with Pioneer CDJ's not playing some regular wav files (even on the new CDJ-3000!!) and I know lots of people who've had the same experience. It baffled me why I can't play a 48kHz/24-bit file on a player that clearly supports it.”
-…
+“I always had issues with Pioneer CDJ's not playing some regular wav files (even on the new CDJ-3000!!) and I know lots of people who've had the same experience. It baffled me why I can't play a 48kHz/24-bit file on a player that clearly supports it.”  
+
+…  
+
 “The actual issue with these WAV files and CDJ's is due to a (often hidden) property embedded into the wav's metadata called WAV_EXTENSIBLE. It's meant to add support for things like multi-channel audio, speaker mappings, etc. It is also used in common wav files, like the hi-res tracks downloaded from Bandcamp- and this is the source of the issue. CDJ's read these files and go 'nope,' despite otherwise being compatible.”"
