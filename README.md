@@ -1,4 +1,6 @@
-# Pioneer-DJ-File-Formats
+# Pioneer DJ File Format support
+
+A handy table of format support taken from the various user manuals
 
 | Model       | Year | MP3 | AAC                | WAV/AIFF*          | FLAC              | Apple Lossless    | Notes                                     |
 |-------------|------|-----|--------------------|-------------------|-------------------|-------------------|-------------------------------------------|
